@@ -1,1 +1,0 @@
-# Distancia.calculada
